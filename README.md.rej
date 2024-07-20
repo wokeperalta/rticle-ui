@@ -1,0 +1,28 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -12,7 +12,7 @@ A blog website where users can publish their articles and content to the web.
+ 
+ **Server:** Node, Express
+ 
+-**Database:** MySQL
++**Database:** Mangodb
+ 
+   
+ ## 👨🏿‍🤝‍👨🏿Authors
+@@ -29,7 +29,7 @@ A blog website where users can publish their articles and content to the web.
+ ## 🔗 Links
+ [![Website](https://img.shields.io/badge/Our_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rticle.com/)
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
++[![Instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rticle21)
+ 
+ 
+ ## 📖 Technologies Documentation
+@@ -51,7 +51,7 @@ A blog website where users can publish their articles and content to the web.
+   
+ ## Acknowledgements
+ 
+- - [Megadraft](https://github.com/globocom/megadraft)
++ - [MUI RTE](https://www.npmjs.com/package/mui-rte)
+  
+ 
+   
